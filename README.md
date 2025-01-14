@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Fardin Ebadi, a backend developer with a Bachelor's degree in Software Engineering, passionate about programming and technology. 🌟<br><br>💻 My Skills:<br><br>Backend Development<br>Frontend Development<br>Programming in Python<br>Working with Linux OS<br>🎯 My Expertise:<br>Designing and implementing powerful and optimized backend systems.<br><br>🤝 My Personality Traits:<br>Enthusiastic about teamwork and having a flexible mindset for learning and growth.<br><br>Thank you for visiting my GitHub! If you have a project that you think we can collaborate on, feel free to reach out. 😊
+Hi! I'm Fardin Ebadi, a backend developer with a Bachelor's degree in Software Engineering, passionate about programming and technology. 🌟<br><br>💻 My Skills:<br><br>Backend Development<br>Programming in Python<br>Working with Linux OS<br>🎯 My Expertise:<br>Designing and implementing powerful and optimized backend systems.<br><br>🤝 My Personality Traits:<br>Enthusiastic about teamwork and having a flexible mindset for learning and growth.<br><br>Thank you for visiting my GitHub! If you have a project that you think we can collaborate on, feel free to reach out. 😊
 
 
 ## 🌐 Socials:
